@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook focused on Natural Language Processi
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.11.2
 - Jupyter Notebook or JupyterLab
 - spaCy library
 
