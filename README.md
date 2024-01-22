@@ -14,17 +14,16 @@ This repository contains a Jupyter Notebook focused on Natural Language Processi
 ### Installation
 1. Clone the repository:
 ```
-git clone [[repository-url](https://github.com/cloudysman/Do-the-spaCy-for-Ner-Model-exercises)]
+git clone https://github.com/cloudysman/Do-the-spaCy-for-Ner-Model-exercises
 ```
 
-2. Navigate to the cloned repository's directory.
 
-3. Install the required Python packages:
+2. Install the required Python packages:
 ```
 pip install -r requirements.txt
 ```
 
-4. Download the spaCy English model:
+3. Download the spaCy English model:
 ```
 python -m spacy download en_core_web_lg
 ```
