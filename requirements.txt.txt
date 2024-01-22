@@ -1,0 +1,6 @@
+json
+IPython.core.display
+spacy
+spacy.tokens
+tqdm
+os
