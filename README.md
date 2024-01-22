@@ -34,9 +34,6 @@ Open the `Do_the_spaCy_for_Ner_Model_exercises.ipynb` notebook in Jupyter and fo
 ## Contributing
 Contributions to the project are welcome! Please feel free to fork the repository, make your changes, and create a pull request to merge your improvements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 - spaCy team for providing an excellent NLP library.
 - Contributors to this project for their invaluable inputs.
