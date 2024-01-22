@@ -14,7 +14,7 @@ This repository contains a Jupyter Notebook focused on Natural Language Processi
 ### Installation
 1. Clone the repository:
 ```
-git clone [repository-url]
+git clone [[repository-url](https://github.com/cloudysman/Do-the-spaCy-for-Ner-Model-exercises)]
 ```
 
 2. Navigate to the cloned repository's directory.
